@@ -24,7 +24,7 @@ Sigue estos pasos para configurar el proyecto en tu máquina local:
 
 1. Clona el repositorio:
     ```sh
-    git clone https://github.com/tu-usuario/HealtHelp.git
+    git clone https://github.com/Juanm0331123/HealtHelp.git
     ```
 
 2. Navega al directorio del proyecto:
@@ -78,8 +78,8 @@ Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENS
 
 Para cualquier consulta o sugerencia, por favor contacta a:
 
-- **Nombre**: Tu Nombre
-- **Correo Electrónico**: tu.email@example.com
-- **GitHub**: [tu-usuario](https://github.com/tu-usuario)
+- **Nombre**: Juan Miguel León Gómez
+- **Correo Electrónico**: juanmiguelleon43@gmail.com
+- **GitHub**: [Juanm0331123](https://github.com/Juanm0331123/)
 
 ¡Gracias por usar HealtHelp!
